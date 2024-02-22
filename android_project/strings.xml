@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Rekomendasi Buku Terbaik</string>
+    <string name="heroes_name">Nama Buku</string>
+    <string name="author">Nama Penulis</string>
+    <string name="description">Deskripsi</string>
+    <string name="judulhalaman">Review Buku Pemrograman</string>
+    <string name="profile">Annisah Husni Daulay</string>
+    <string name="sekolah">SMKN 9 Medan</string>
+    <string name="judulprofil">PROFILE</string>
+    <string name="splash">Annisa Tutorial</string>
+    <string name="Profil_Pengguna">Profil</string>
+    <string name="my_name">Annisah Husni Daulay</string>
+    <string name="my_email">annisahhd@gmail.com</string>
+    <string name="specification">Detail Buku</string>
+    <string name="nama_pengarang">Pengarang</string>
+    <string name="judul_buku">Judul</string>
+    <string name="harga_buku">Harga</string>
+    <string name="nama_penerbit">Penerbit</string>
+    <string name="deskripsi_buku">Rangkuman</string>
+    <string name="content_specs_pengarang">isi author</string>
+
+    <string-array name="data_name">
+        <item>The Pragmatic Programmer</item>
+        <item>Introduction to Algorithms</item>
+        <item>The Clean Coder</item>
+        <item>Code Complete</item>
+        <item>Refactoring</item>
+        <item>Head First Design Patterns</item>
+        <item>The Self-Taught Programmer</item>
+        <item>Learning JavaScript Design Patterns</item>
+        <item>Designing Data-Intensive Applications</item>
+        <item>Introduction to Machine Learning with Python</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Andrew Hunt, David Thomas</item>
+        <item>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein</item>
+        <item>Robert C. Martin</item>
+        <item>Steve McConnell</item>
+        <item>Martin Fowler</item>
+        <item>Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson</item>
+        <item>Cory Althoff</item>
+        <item>Addy Osmani</item>
+        <item>Martin Kleppmann</item>
+        <item>Benjamin J. Evans</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Buku The Pragmatic Programmer cocok untuk coder yang ingin melanjutkan karir menjadi software engineer. Buku ini mengkaji tentang pengembangan perangkat lunak modern serta bagaimana mengembangkan program yang sesuai keinginan pengguna</item>
+        <item>Sesuai dengan judulnya, buku Introduction the Algorithms membahas banyak hal tentang algoritma. Kelebihan buku ini adalah menjelaskan dengan pseudocode yang mudah dipahami oleh programmer dari berbagai tingkat keahlian, mulai beginner sampai expert</item>
+        <item>The Clean Coder membahas tentang praktik, teknik, dan tools pembuatan perangkat lunak. Buku ini tidak hanya memberi tahu pembaca cara menulis clean code, tetapi juga menjelaskan bagaimana menjadi programmer profesional yang memiliki banyak keterampilan. The Clean Coder cocok dibaca jika seseorang ingin mempelajari berbagai aspek untuk menjadi programmer profesional. Dalam buku ini ada berbagai saran untuk segala sesuatu yang berhubungan dengan pemrograman, mulai dari coding hingga testing.</item>
+        <item>Buku Code Complete: A Practical Handbook of Software Construction secara komprehensif membahas banyak aspek berkaitan dengan pembuatan struktur kode. Dengan menggunakan teknik dan strategi yang telah dicoba dan diuji sebelumnya</item>
+        <item>Refactoring adalah proses penulisan ulang kode tanpa mengubah fungsionalitasnya. Proses ini penting dipelajari programmer sebelum menulis kode. Mempelajari cara melakukan refactor code lewat buku ini memungkinkan programmer bisa melakukan maintenance kode setiap saat dibutuhkan dan menghindari software rot.</item>
+        <item>Head First Design Patterns merupakan buku yang dikenal karena inovasinya dalam memecah topik kompleks menjadi bagian yang lebih sederhana dan mudah dipahami. Tidak seperti buku pemrograman berat lainnya yang penuh dengan teks, buku ini menampilkan format dengan visual lebih banyak.</item>
+        <item>Topik yang dibahas di sini meliputi pemrograman komputer yang berorientasi pada objek, bagaimana menggunakan coding untuk membangun web scraper, dasar-dasar arsitektur dan algoritma komputer, serta praktik coding untuk software development.</item>
+        <item>Dalam programming, design pattern digunakan di semua bahasa dan code base. Buku pemrograman ini merupakan panduan yang bagus untuk membantu memahami design pattern di JavaScript. Mempelajari design pattern berguna dalam mengetahui metode mana di masa lalu yang sudah berhasil digunakan oleh developer lain dan diharapkan berhasil lagi untuk penerapan terkini.</item>
+        <item>Sebagai penulis, Martin Kleppmann membantu pembacanya untuk mempelajari pro dan kontra berbagai teknologi yang digunakan dalam memproses dan menyimpan data. Dengan buku ini, programmer bisa belajar cara memanfaatkan data dalam aplikasi modern.</item>
+        <item>Introduction to Machine Learning with Python: A Guide for Data Scientist mengajarkan cara menggunakan Python untuk aplikasi machine learning. Disini, pembaca juga bisa mengetahui masalah seperti apa yang bisa diselesaikan menggunakan machine learning dan bagaimana prosesnya</item>
+    </string-array>
+    `<integer-array name="data_photo">
+        <item>@drawable/buku1</item>
+        <item>@drawable/buku2</item>
+        <item>@drawable/buku3</item>
+        <item>@drawable/buku4</item>
+        <item>@drawable/buku5</item>
+        <item>@drawable/buku6</item>
+        <item>@drawable/buku7</item>
+        <item>@drawable/buku8</item>
+        <item>@drawable/buku9</item>
+        <item>@drawable/buku10</item>
+    </integer-array>
+`   <string-array name="data_penerbit">
+    <item>Gramedia</item>
+    <item>Tiga Serangkai</item>
+    <item>Gramedia</item>
+    <item>Grasindo</item>
+    <item>Deepublish</item>
+    <item>Gramedia</item>
+    <item>Tiga Serangkai</item>
+    <item>Gramedia</item>
+    <item>Grasindo</item>
+    <item>Deepublish</item>
+    </string-array>
+    <string-array name="data_harga">
+        <item>Rp. 100k</item>
+        <item>Rp. 200k</item>
+        <item>Rp. 200k</item>
+        <item>Rp. 300k</item>
+        <item>Rp. 150k</item>
+        <item>Rp. 100k</item>
+        <item>Rp. 200k</item>
+        <item>Rp. 300k</item>
+        <item>Rp. 100k</item>
+        <item>Rp. 150k</item>
+    </string-array>
+</resources>
